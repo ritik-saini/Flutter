@@ -15,7 +15,7 @@ class _MyAppState extends State<MyApp> {
   final _questions = const [
     {
       'questionText': 'What\'s your favourite color?',
-      'answers': ['Black', 'Red', 'Green', 'White']
+      'answers': ['Black', 'Red', 'White', 'Green']
     },
     {
       'questionText': 'What\'s  your favourite animal?',
@@ -23,7 +23,7 @@ class _MyAppState extends State<MyApp> {
     },
     {
       'questionText': 'What\'s  your favourite Programming Language?',
-      'answers': ['Python', 'Java', 'Ruby', 'C++']
+      'answers': ['Python', 'Java', 'Ruby', 'Go']
     },
   ];
 
